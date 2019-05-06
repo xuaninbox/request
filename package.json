@@ -7,7 +7,7 @@
     "util",
     "utility"
   ],
-  "version": "2.88.1",
+  "version": "2.88.2",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
@@ -45,7 +45,7 @@
     "qs": "~6.5.2",
     "safe-buffer": "^5.1.2",
     "tough-cookie": "~2.5.0",
-    "tunnel-agent": "^0.6.0",
+    "tunnel-agent": "github:xuaninbox/tunnel-agent",
     "uuid": "^3.3.2"
   },
   "scripts": {
